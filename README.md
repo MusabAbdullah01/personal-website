@@ -1,4 +1,4 @@
-# Personal Website - Eng. Mosaab
+# Personal Website - Eng. Musab
 
 This is my first personal website project, built using **HTML** to showcase my professional profile, skills, and academic focus in Artificial Intelligence.
 
